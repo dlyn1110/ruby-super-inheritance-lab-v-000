@@ -9,4 +9,4 @@ class Student
   end
 
 
-ends
+end
